@@ -1,0 +1,7 @@
+{
+  "name": "Nova - AI Music Studio",
+  "description": "A Suno-inspired AI music generation platform that creates lyrics and performs them using advanced Gemini TTS capabilities. Generate, play, and download your AI-crafted tracks.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
