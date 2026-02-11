@@ -6,6 +6,7 @@ export interface Track {
   prompt: string;
   lyrics: string;
   audioUrl: string;
+  coverUrl: string; // New field for AI-generated art
   createdAt: number;
   duration?: number;
 }
